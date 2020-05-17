@@ -1,0 +1,20 @@
+{
+  "id": "yagiyui_Hbondportrait",
+  "version": "1.0.0",
+  "name": "八木唯立绘魔改（羁绊）",
+  "author": "裏天翔",
+  "description": "八木唯羁绊立绘工口魔改。",
+  "preview": "preview.jpg",
+
+  "dependencies": {
+    "majsoul_plus": "^2.0.0"
+  },
+  "replace": [
+  
+    "extendRes/charactor/bamuwei_0/bighead.png",
+    "extendRes/charactor/bamuwei_0/full.png",
+    "extendRes/charactor/bamuwei_0/half.png",
+    "extendRes/charactor/bamuwei_0/smallhead.png",
+    "extendRes/charactor/bamuwei_0/waitingroom.png"
+  ]
+}
